@@ -11,3 +11,4 @@
   * [@BlackMatrix7](https://github.com/blackmatrix7)
   * [@forntarv](https://github.com/forntarv/ProxyConfig)
   * [@DivineEngine](https://github.com/DivineEngine)
+  * [@FQrabbit](https://github.com/FQrabbit/SSTap-Rule)
